@@ -1,0 +1,25 @@
+{
+  "name": "spinning-wheel-of-doom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "false",
+  "scripts": {
+    "start": "daily-clock-in --verbose",
+    "preview": "daily-clock-in --verbose --simulating",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalikAbed/spinning-wheel-of-doom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalikAbed/spinning-wheel-of-doom/issues"
+  },
+  "homepage": "https://github.com/MalikAbed/spinning-wheel-of-doom#readme",
+  "dependencies": {
+    "daily-clock-in": "^1.0.0"
+  }
+}
